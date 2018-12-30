@@ -2,7 +2,7 @@ osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 
 ------------------------------------------------------------------------------------------
 
-A collection of OSX/iOS security related resources
+A collection of OS X/iOS/macOS security related resources
 
 * [**News**](#news)
 
@@ -16,7 +16,7 @@ A collection of OSX/iOS security related resources
 
 * [**Presentations and Papers**](#presentations-and-papers)
 
-* [**Virus and exploit writeups**](#virus-and-exploit-writeups)
+* [**Virus and exploit write-ups**](#virus-and-exploit-write-ups)
 
 * [**Useful tools and guides**](#useful-tools-and-guides)
 
@@ -43,7 +43,7 @@ A collection of OSX/iOS security related resources
 * Intego's corporate Mac security blog often contains recent and in-depth analysis of mac malware and other security issues
 
 ### [Objective-See](https://objective-see.com/blog.html)
-* Objective-See's blog often contains in-depth breakdowns of malware they've reverse engineered and vulnarabilities they've discovered.
+* Objective-See's blog often contains in-depth breakdowns of malware they've reverse engineered and vulnerabilities they've discovered.
 
 ### [The Safe Mac](http://www.thesafemac.com/)
 * Resource to help educate Mac users about security issues. Contains historical as well as timely security updates.
@@ -51,7 +51,7 @@ A collection of OSX/iOS security related resources
 ### [Mac Security](https://macsecurity.net/news)
 * Another Mac security blog. This often includes more in-depth analysis of specific threats.
 
-### [OSX Daily](http://osxdaily.com/)
+### [OS X Daily](http://osxdaily.com/)
 * Not strictly security-specific but it contains jailbreaking information which has security implications
 
 ## Hardening
@@ -84,7 +84,7 @@ A collection of OSX/iOS security related resources
 ### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * Hardening guide for El Capitan
 
-### [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
+### [OS X application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
 * Useful checklist for hardening systems
 
 ### [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge)
@@ -111,30 +111,30 @@ A collection of OSX/iOS security related resources
 ### [Volafox](https://github.com/n0fate/volafox)
 * Memory analysis toolkit
 ### [Mac4n6](https://github.com/pstirparo/mac4n6)
-* Collection of OSX and iOS artifacts
-### [Keychain analysis with Mac OSX Forensics](https://repo.zenk-security.com/Forensic/Keychain%20Analysis%20with%20Mac%20OS%20X%20Memory%20Forensics.pdf)
-### [OSX Collector](https://github.com/Yelp/osxcollector)
+* Collection of OS X and iOS artifacts
+### [Keychain analysis with Mac OS X Forensics](https://repo.zenk-security.com/Forensic/Keychain%20Analysis%20with%20Mac%20OS%20X%20Memory%20Forensics.pdf)
+### [OS X Collector](https://github.com/Yelp/osxcollector)
 * Forensics utility developed by Yelp
-### [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E)
-* OSX incident response at GitHub [Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
+### [OS X incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E)
+* OS X incident response at GitHub [Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 ### [iOS Instrumentation without jailbreaking](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/)
 * How to debug an iOS application that you didn't create
 ### [Certo](https://www.certosoftware.com/)
 * Paid service for analyzing the iTunes backup of your iOS device
 ### [Blackbag Tech free tools](https://www.blackbagtech.com/resources/freetools.html)
-### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
+### [OS X (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 ### [mac-apt](https://github.com/ydkhatri/mac_apt)
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics)
 
 ## Reverse engineering
 ### [New OS X Book](http://www.newosxbook.com/)
-* Frequently updated book on OSX internals
-### [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101)
-* Another Awesome-style list dedicated to OSX reverse engineering resources
+* Frequently updated book on OS X internals
+### [Collection of OS X reverse engineering resources](https://github.com/michalmalik/osx-re-101)
+* Another Awesome-style list dedicated to OS X reverse engineering resources
 ### [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page)
 ### [Reverse engineering OSX](https://reverse.put.as/)
-### [OSX crackmes](https://reverse.put.as/crackmes/)
+### [OS X crackmes](https://reverse.put.as/crackmes/)
 * A collection of puzzles to test your reverse engineering skills
 ### [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
 * Walkthrough for Coca applications
@@ -146,22 +146,22 @@ A collection of OSX/iOS security related resources
 * Awesome list dedicated to reversing
 
 ## Presentations and Papers
-### [Area41 2018: Daniel Roethlisberger: Monitoring MacOS For Malware And Intrusions](https://www.youtube.com/watch?v=OSSkBgn_xJs&feature=youtu.be)
+### [Area41 2018: Daniel Roethlisberger: Monitoring MacOS For Malware And Intrusions](http://youtu.be/OSSkBgn_xJs)
 ### [Windshift APT](https://www.youtube.com/watch?v=Mza6qv4mY9I&feature=youtu.be&t=6h12m24s)
 * [Deep-dive write-up by Objective See](https://objective-see.com/blog/blog_0x38.html)
 ### [Automated Binary Analysis on iOS – A Case Study on Cryptographic Misuse in iOS Applications](https://pure.tugraz.at/ws/portalfiles/portal/17749575)
 * Examining iOS applications for poorly guarded secrets
-### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)
-* [Slides](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw).
-### [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
-### [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
+### [Patrick Wardle: Writing Bad @$$ Malware for OS X](http://youtu.be/fv4l9yAL2sU)
+* [Slides](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) and [another related video](http://youtu.be/oT8BKt_0cJw).
+### [Methods of Malware Persistence on OS X](http://youtu.be/rhhvZnA4VNY)
+### [Advanced Mac OS X Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
 ### [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs)  
-* Fuzzing and exploiting OSX kernel bugs
+* Fuzzing and exploiting OS X kernel bugs
 ### [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
 ### [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
 ### [Practical iOS App Hacking](https://papers.put.as/papers/ios/2012/Mathieu-RENARD-GreHACK-Practical-iOS-App-Hacking.pdf)
 ### [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
-### [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI)
+### [Security on OS X and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI)
 * [Slides](https://www.slideshare.net/nosillacast/security-on-the-mac)
 
 ### [Thunderstrike](https://trmm.net/Thunderstrike_31c3)
@@ -169,10 +169,10 @@ A collection of OSX/iOS security related resources
 ### [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
 ### [Don't trust your eye, Apple graphics is compromised](https://speakerdeck.com/marcograss/dont-trust-your-eye-apple-graphics-is-compromised)
 * security flaws in IOKit's graphics acceleration that lead to exploitation from the browser
-### [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](https://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
+### [Fuzzing and Exploiting OS X Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](https://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
 ### [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
 ### [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)
-### [Attacking OSX for fun and profit tool set limiations frustration and table flipping Dan Tentler](https://www.youtube.com/watch?v=9T_2KYox9Us)
+### [Attacking OS X for fun and profit tool set limitations frustration and table flipping Dan Tentler](https://www.youtube.com/watch?v=9T_2KYox9Us)
 * [Follow-up from target](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
 ### [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
 ### [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
@@ -182,7 +182,7 @@ A collection of OSX/iOS security related resources
 ### [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
 ### [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
 ### [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf)
-### [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
+### [Billy Ellis iOS/OS X hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
 ### [A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast](https://www.youtube.com/watch?v=_q_2mN8U91o)
 ### [Jailbreaking Apple Watch at DEFCON-25](https://www.youtube.com/watch?v=eJpbi-Qz6Jc)
 ### [SandScout: Automatic Detection of Flaws in iOS Sandbox Profiles](http://www.icri-sc.org/fileadmin/user_upload/Group_TRUST/PubsPDF/sandscout-final-ccs-2016.pdf)
@@ -190,7 +190,7 @@ A collection of OSX/iOS security related resources
 * [Presentation](https://www.youtube.com/watch?v=TnwXEDCIowQ)
 
 
-## Virus and exploit writeups
+## Virus and Exploit Write-ups
 ### [kernelcache laundering](https://github.com/Synacktiv/kernelcache-laundering)
 * Load iOS12 kernelcaches and PAC code in IDA
 ### [blanket](https://github.com/bazad/blanket)
@@ -201,7 +201,7 @@ A collection of OSX/iOS security related resources
 * How the public warning system can be used as an attack vector 
 ### [I can be Apple, and so can you](https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/)
 * An exploration of a code signing vulnerability in macOS that has persisted for 11 years
-* [Creating signed and customized backdoored macos apps](https://medium.com/@adam.toscher/creating-signed-and-customized-backdoored-macos-applications-by-abusing-apple-developer-tools-b4cbf1a98187)
+* [Creating signed and customized back-door’d macOS apps](https://medium.com/@adam.toscher/creating-signed-and-customized-backdoored-macos-applications-by-abusing-apple-developer-tools-b4cbf1a98187)
 ### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
 ### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
 * A flaw in Unified Logs leaks the password for encrypted APFS volumes
@@ -209,14 +209,14 @@ A collection of OSX/iOS security related resources
 ### [A fun XNU infoleak](https://bazad.github.io/2018/03/a-fun-xnu-infoleak/)
 ### Meltdown
 * CPU flaw allowing kernel memory to be accessed by hijacking speculative
-  execution
+execution
 * [Proof of concept](https://github.com/gkaindl/meltdown-poc)
 * [Apple's statement](https://support.apple.com/en-us/HT208394)
-* [Measuring OSX meltdown patches performance](https://reverse.put.as/2018/01/07/measuring-osx-meltdown-patches-performance/)
+* [Measuring OS X meltdown patches performance](https://reverse.put.as/2018/01/07/measuring-osx-meltdown-patches-performance/)
 * [iPhone performance after Spectre patch](https://www.gsmarena.com/spectre_and_meltdown_testing_performance_impact_on_iphone_8_plus-news-29132.php)
 ### [Why gets your root](https://www.synack.com/2017/11/29/why-gets-you-root/)
 * An Apple update introduced a bug where a blank password was set for root,
-  allowing attackers to easily gain root access
+allowing attackers to easily gain root access
 ### [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/)
 * [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 ### [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
@@ -225,7 +225,7 @@ A collection of OSX/iOS security related resources
 ### [Thunderbolt](https://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/)
 * Firmware bootkit
 ### [Malware in firmware: how to exploit a false sense of security](https://www.welivesecurity.com/2017/10/19/malware-firmware-exploit-sense-security/)
-* A post on the resurgence of bootkits and how to defend against them
+* A post on the resurgence of boot-kits and how to defend against them
 ### [Proton RAT](https://www.cybereason.com/blog/labs-proton-b-what-this-mac-malware-actually-does)
 * Exploration of a Remote Access Toolkit
 
@@ -236,7 +236,7 @@ A collection of OSX/iOS security related resources
 ### [Mac Defender](https://macsecurity.net/view/79-remove-mac-defender-virus-from-mac-os-x)
 ### [Wire Lurker](https://www.paloaltonetworks.com/resources/research/unit42-wirelurker-a-new-era-in-ios-and-os-x-malware.html)
 ### [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/)
-* First OSX ransomware
+* First OS X ransomware
 ### [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
 ### [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/)
 ### EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://www.sentinelone.com/blog/reverse-engineering-mac-os-x/)
@@ -260,11 +260,11 @@ A collection of OSX/iOS security related resources
 
 ### Exploiting the Wifi Stack on Apple Devices
 Google's Project Zero series of articles that detail vulnerabilities in the wireless stack used by Apple Devices
-  * [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 1)](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html)
-  * [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html)
-  * [Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html)
-  * [Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html)
-  * [Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
+* [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 1)](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html)
+* [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html)
+* [Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html)
+* [Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html)
+* [Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
 
 ### [ChaiOS bug](https://www.grahamcluley.com/chaios-bug-crash-ios-macos-messages/)
 * A message that crashes iMessage
@@ -283,7 +283,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Developer jailbreak for Apple Watch
 ### [Booting Secure](http://michaellynn.github.io/2018/07/27/booting-secure/)
 * Deep dive into Secure Boot on 2018 MacBook Pro
-### [Tutorial - emulate an iOS kernel in QEMU up to launchd and userspace](https://worthdoingbadly.com/xnuqemu2/)
+### [Tutorial - emulate an iOS kernel in QEMU up to launchd and user-space](https://worthdoingbadly.com/xnuqemu2/)
 * Tutorial on getting an iOS kernel to run in QEMU
 ### [xnumon](https://www.roe.ch/xnumon)
 * Monitor macOS for malicious activity
@@ -292,7 +292,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Audits system artifacts to help you identify unknown and novel threats
 ### [Are you really signed?](https://github.com/Sentinel-One/macos-are-you-really-signed)
 * Utility to test for code-sign bypass vulnerability
-### [osx security growler](https://github.com/pirate/security-growler)
+### [OS X security growler](https://github.com/pirate/security-growler)
 * Mac menubar item that lets you know about security events on your system
 ### [mac-a-mal](https://github.com/phdphuc/mac-a-mal)
 * Automated malware analysis on macOS
@@ -300,20 +300,20 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [jrswizzle](https://github.com/rentzsch/jrswizzle)
 * method interface exchange
 ### [MacDBG](https://github.com/blankwall/MacDBG)
-* C and Python debugging framework for OSX
+* C and Python debugging framework for OS X
 ### [bitcode_retriever](https://github.com/AlexDenisov/bitcode_retriever)
 * store and retrieve bitcode from Mach-O binary
 ### [machotools](https://github.com/enthought/machotools)
 * retrieve and change information about mach-o files
 ### [onyx-the-black-cat](https://github.com/gdbinit/onyx-the-black-cat)
-* kernel module for OSX to defeat anti-debugging protection
+* kernel module for OS X to defeat anti-debugging protection
 ### [create-dmg](https://github.com/andreyvit/create-dmg)
 * CLI utility for creating and modifying DMG files
 ### [dmg2iso](https://sourceforge.net/projects/dmg2iso/?source=typ_redirect)
 * convert dmg to iso
 ### [Infosec Homebrew](https://github.com/kai5263499/homebrew-infosec)
 * Homebrew tap for security-related utilities
-### [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-macos-command-line)
+### [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-macos-command-line)
 * Collection of really useful shell commands
 ### [Keychain dump](https://github.com/juuso/keychaindump)
 * Dump keychain credentials
@@ -322,13 +322,13 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [Lingon-X](https://www.peterborgapps.com/lingon/)
 * GUI for launchd
 ### [Hopper](https://www.hopperapp.com/)
-* Excellent OSX debugger (requires license)
+* Excellent OS X debugger (requires license)
 ### [Symhash](https://github.com/threatstream/symhash)
-* Python utility for generating imphash fingerprints for OSX binaries
+* Python utility for generating imphash fingerprints for OS X binaries
 ### [KisMac2](https://github.com/IGRSoft/KisMac2)
 * Wireless scanning and packet capturing
 ### [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
-* Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
+* Framework is for fuzzing OS X kernel vulnerability based on passive inline hook mechanism in kernel mode
 ### [Platypus](http://sveinbjorn.org/platypus)
 * GUI for generating .app bundles
 ### [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg)
@@ -336,8 +336,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [PoisonTap](https://github.com/samyk/poisontap)
 ### [Chipsec](https://github.com/chipsec/chipsec)
 * System firmware checker by Intel
-### [Revisiting Mac OS X Kernel Rootkits by Phrack Magazine](http://phrack.org/issues/69/7.html)
-* A collection of OSX rootkit ideas
+### [Revisiting Mac OS X Kernel Root-kits by Phrack Magazine](http://phrack.org/issues/69/7.html)
+* A collection of OS X root-kit ideas
 ### [iPhone Data Protection in Depth](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T2%20-%20Jean-Baptiste%20Be%CC%81drune%20&%20Jean%20Sigwald%20-%20iPhone%20Data%20Protection%20in%20Depth.pdf)
 ### [Cycript](http://www.cycript.org/)
 * Remote control library for fuzz testing iOS apps
@@ -355,7 +355,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [Bella](https://github.com/kai5263499/Bella)
 ### [Stitch](https://nathanlopez.github.io/Stitch/)
 ### [Pupy](https://github.com/n1nj4sec/pupy)
-### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) - Works on OSX and jailbroken iOS
+### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) - Works on OS X and jailbroken iOS
 ### [EvilOSX](https://github.com/Marten4n6/EvilOSX) - Pure python post-exploitation toolkit
 
 ## Worth following on Twitter
